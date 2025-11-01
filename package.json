@@ -1,0 +1,15 @@
+{
+  "name": "todo-mern-app",
+  "version": "1.0.0",
+  "description": "MERN Stack Todo List Application",
+  "scripts": {
+    "install-all": "cd server && npm install && cd ../client && npm install",
+    "server": "cd server && npm start",
+    "client": "cd client && npm run dev",
+    "dev-server": "cd server && npm run dev",
+    "build": "cd client && npm run build"
+  },
+  "keywords": ["mern", "todo", "react", "mongodb", "express"],
+  "author": "",
+  "license": "MIT"
+}

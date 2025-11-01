@@ -1,0 +1,3 @@
+@echo off
+echo Starting Todo App Frontend...
+npx vite
